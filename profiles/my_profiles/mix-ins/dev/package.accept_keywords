@@ -1,0 +1,5 @@
+dev-lua/luarocks ~amd64
+dev-libs/shflags ~amd64
+dev-vcs/git-flow-completion ~amd64
+dev-vcs/gitflow ~amd64
+dev-lua/lgi ~amd64
