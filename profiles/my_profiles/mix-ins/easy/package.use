@@ -1,0 +1,4 @@
+net-analyzer/nagios-core apache2
+net-analyzer/nagios-plugins apache2
+www-servers/apache2 ldap ssl threads
+dev-lang/php apache2

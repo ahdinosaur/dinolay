@@ -1,1 +1,2 @@
 net-misc/cfengine ~amd64
+net-analyzer/nagios ~amd64
