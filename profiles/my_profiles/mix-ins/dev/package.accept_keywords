@@ -3,3 +3,4 @@ dev-libs/shflags ~amd64
 dev-vcs/git-flow-completion ~amd64
 dev-vcs/gitflow ~amd64
 dev-lua/lgi ~amd64
+dev-vcs/mr ~amd64

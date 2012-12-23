@@ -1,1 +1,1 @@
-USE="X truetype xft png apng jpeg xcb gtk introspection"
+USE="truetype xft png apng jpeg xcb gtk introspection"
