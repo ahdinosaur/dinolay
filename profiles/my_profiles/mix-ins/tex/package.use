@@ -1,1 +1,4 @@
 app-text/texlive dvi2tty dvipdfm graphics pstricks science truetype
+media-libs/freetype kpathsea
+app-text/poppler qt4
+media-libs/gd fontconfig
