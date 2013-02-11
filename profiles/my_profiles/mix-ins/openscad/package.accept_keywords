@@ -1,6 +1,6 @@
 #required by media-gfx/openscad-2013.01, required by openscad (argument)
-=sci-mathematics/cgal ~amd64
+sci-mathematics/cgal ~amd64
 #required by media-gfx/openscad-2013.01, required by openscad (argument)
-=media-gfx/opencsg ~amd64
+media-gfx/opencsg ~amd64
 #required by openscad (argument)
-=media-gfx/openscad ~amd64
+media-gfx/openscad ~amd64
